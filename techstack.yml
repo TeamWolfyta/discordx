@@ -1,0 +1,793 @@
+repo_name: TeamWolfyta/discordx
+report_id: 84e4963309e875991946af4499de2c48
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-12T05:07:50+00:00'
+requested_by: samarmeena
+provider: github
+branch: main
+detected_tools_count: 59
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/TeamWolfyta/discordx
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/lava-player/package.json
+  detection_source: packages/lava-player/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-20 06:25:46.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/TeamWolfyta/discordx
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/importer/package.json
+  detection_source: packages/importer/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2021-11-12 23:19:51.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/socket.io/package.json
+  detection_source: packages/socket.io/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2022-10-16 14:26:17.000000000 Z
+- name: Koa
+  description: Next generation web framework for node.js
+  website_url: http://koajs.com/
+  version: 2.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1726/5055057.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/koa/package.json
+  detection_source: packages/koa/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-09 09:11:09.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2021-11-15 14:09:49.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  version: 4.7.2
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/socket.io/package.json
+  detection_source: packages/socket.io/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-05 13:26:43.000000000 Z
+- name: ws
+  description: A Node.js WebSocket library
+  website_url: https://github.com/websockets/ws
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/11381/no-img-open-source.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/lava-player/package.json
+  detection_source: packages/lava-player/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-20 06:25:46.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/docs/babel.config.js
+  detection_source: docs/babel.config.js
+  last_updated_by: oceanroleplay
+  last_updated_on: 2021-08-15 09:27:50.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/.eslintrc
+  detection_source: ".eslintrc"
+  last_updated_by: OwenCalvin
+  last_updated_on: 2021-05-19 08:33:38.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/.github/workflows/Algolia
+    + CodeQL.yml
+  detection_source: ".github/workflows/Algolia + CodeQL.yml"
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2022-09-27 09:29:44.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-10 08:14:35.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/importer/package.json
+  detection_source: packages/importer/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2021-11-12 23:19:51.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 3.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-12-01 06:18:02.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/lava-player/package.json
+  detection_source: packages/lava-player/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-20 06:25:46.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/socket.io/package.json
+  detection_source: packages/socket.io/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-20 16:47:19.000000000 Z
+- name: Ora
+  description: Agile task management and visual team collaboration, Ora is your team’s
+    command center with kanban, chat and timers!
+  website_url: https://ora.pm/
+  open_source: false
+  hosted_saas: true
+  category: Collaboration
+  sub_category: Project Management
+  image_url: https://img.stackshare.io/service/6925/preview.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2022-03-03 20:50:18.000000000 Z
+- name: Discord.js
+  description: Discord.js is a powerful node.js module that allows you to interact
+    with the Discord API very easily.
+  website_url: https://discord.js.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8403/logo-square.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx
+  detection_source: Repo Metadata
+- name: TypeDI
+  description: Simple yet powerful dependency injection tool for JavaScript and TypeScript.
+  website_url: https://github.com/typestack/typedi
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8850/24602613.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/di/package.json
+  detection_source: packages/di/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-01-08 18:18:31.000000000 Z
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-08-07 05:33:51.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-01-09 14:08:31.000000000 Z
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 18.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@commitlint/config-angular"
+  description: Shareable commitlint config enforcing the angular commit convention
+  package_url: https://www.npmjs.com/@commitlint/config-angular
+  version: 18.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16924/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@svgr/webpack"
+  description: SVGR webpack loader
+  package_url: https://www.npmjs.com/@svgr/webpack
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16411/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-09-03 13:42:43.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/importer/package.json
+  detection_source: packages/importer/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@types/koa"
+  description: TypeScript definitions for Koa
+  package_url: https://www.npmjs.com/@types/koa
+  version: 2.13.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16749/default_c795226b47ffe4cb32fcfeee29dd5b030544258a.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/koa/package.json
+  detection_source: packages/koa/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.202
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@types/prettier"
+  description: TypeScript definitions for prettier
+  package_url: https://www.npmjs.com/@types/prettier
+  version: 2.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16943/default_c17ccfb3dc0510bb2c684b87ee080a74a9728c34.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 6.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 6.13.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: ansi-regex
+  description: Regular expression for matching ANSI escape codes
+  package_url: https://www.npmjs.com/ansi-regex
+  version: 6.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17917/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2021-11-07 12:37:48.000000000 Z
+- name: boxen
+  description: Create boxes in the terminal
+  package_url: https://www.npmjs.com/boxen
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16617/default_bfa6d5d12cc0af739d6b3d4c69dddc66832b1d34.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-08-07 05:33:51.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-08-07 05:33:51.000000000 Z
+- name: commander
+  description: The complete solution for node.js command-line programs
+  package_url: https://www.npmjs.com/commander
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15829/default_50135978d26eba7c09093ceb23b96d522898e4eb.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-05 13:26:43.000000000 Z
+- name: discord.js
+  description: A powerful library for interacting with the Discord API
+  package_url: https://www.npmjs.com/discord.js
+  version: 14.14.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16866/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/socket.io/package.json
+  detection_source: packages/socket.io/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2022-10-16 14:26:17.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2021-08-13 22:12:27.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 10.3.10
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/importer/package.json
+  detection_source: packages/importer/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-05 13:26:43.000000000 Z
+- name: http
+  package_url: https://www.npmjs.com/http
+  version: 0.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16874/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/socket.io/package.json
+  detection_source: packages/socket.io/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2022-11-16 14:22:26.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-01-09 14:08:31.000000000 Z
+- name: is-ci
+  description: Detect if the current environment is a CI server
+  package_url: https://www.npmjs.com/is-ci
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18090/image.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2022-02-25 09:26:57.000000000 Z
+- name: prompts
+  description: Lightweight, beautiful and user-friendly prompts
+  package_url: https://www.npmjs.com/prompts
+  version: 2.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17250/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-04-14 15:41:16.000000000 Z
+- name: rimraf
+  description: A deep deletion module for node
+  package_url: https://www.npmjs.com/rimraf
+  version: 5.0.5
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-05 13:26:43.000000000 Z
+- name: tar
+  description: Tar for node
+  package_url: https://www.npmjs.com/tar
+  version: 6.2.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16466/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Indian Ocean Roleplay
+  last_updated_on: 2022-03-03 20:50:18.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 10.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/discordx/package.json
+  detection_source: packages/discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 2.6.2
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/changelog/package.json
+  detection_source: packages/changelog/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-09-03 13:42:43.000000000 Z
+- name: typedoc
+  description: Create api documentation for TypeScript projects
+  package_url: https://www.npmjs.com/typedoc
+  version: 0.25.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15983/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
+- name: url-loader
+  description: A loader for webpack which transforms files into base64 URIs
+  package_url: https://www.npmjs.com/url-loader
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/docs/package.json
+  detection_source: docs/package.json
+  last_updated_by: oceanroleplay
+  last_updated_on: 2021-08-13 22:12:27.000000000 Z
+- name: validate-npm-package-name
+  description: Give me a string and I'll tell you if it's a valid npm package name
+  package_url: https://www.npmjs.com/validate-npm-package-name
+  version: 5.0.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16712/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/TeamWolfyta/discordx/blob/main/packages/create-discordx/package.json
+  detection_source: packages/create-discordx/package.json
+  last_updated_by: Samar Meena (Vijay Meena)
+  last_updated_on: 2023-11-30 09:47:39.000000000 Z
